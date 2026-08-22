@@ -1,0 +1,6 @@
+build/
+iso/boot/nebula_kernel.bin
+*.iso
+*.log
+*.o
+*.d
